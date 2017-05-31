@@ -1,0 +1,11 @@
+{
+  "name": "bdd",
+  "version": "0.0.1",
+  "devDependencies": {
+    "cucumber": "^2.2.0"
+  },
+
+  "scripts": {
+    "specs" : "cucumber.js features"
+  }
+}
